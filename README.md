@@ -1,1 +1,3 @@
-devsearch
+# DEVSEARCH
+
+Django based app
