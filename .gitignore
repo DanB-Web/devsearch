@@ -51,8 +51,4 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-# Virtual Env
-venv/
-devsearch/__pycache__/
-devsearch/__pycache__/
 .DS_Store
